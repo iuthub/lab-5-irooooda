@@ -1,3 +1,3 @@
-Student Name: Latofatkhon Saydamatova
-Student ID: U1610123
+Student Name: Iroda Ulmasboeva
+Student ID: U1610080
 Group: 001
